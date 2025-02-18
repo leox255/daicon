@@ -1,0 +1,33 @@
+{
+  "name": "daicon",
+  "version": "1.0.0",
+  "description": "A beautiful CLI tool to convert SVG icons to Flutter Dart classes",
+  "main": "src/index.js",
+  "type": "module",
+  "bin": {
+    "daicon": "./src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "cli",
+    "svg",
+    "flutter",
+    "dart",
+    "icons"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "change-case-all": "^2.1.0",
+    "figlet": "^1.7.0",
+    "fs-extra": "^11.2.0",
+    "glob": "^10.3.10",
+    "inquirer": "^9.2.12",
+    "ora": "^7.0.1",
+    "svgo": "^3.0.5",
+    "svgtofont": "^6.3.0"
+  }
+}
