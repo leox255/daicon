@@ -1,6 +1,6 @@
 {
   "name": "daicon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A beautiful CLI tool to convert SVG icons to Flutter Dart classes",
   "main": "src/index.js",
   "type": "module",
