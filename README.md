@@ -1,4 +1,4 @@
-# Daicon 🎨
+# Daicon 🎨 
 
 A CLI tool to convert SVG icons into Flutter-compatible icon fonts with Dart class definitions.
 
